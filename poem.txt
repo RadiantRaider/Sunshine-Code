@@ -7,3 +7,4 @@ red
 Green
 Violet
 Yellow
+Light blue
