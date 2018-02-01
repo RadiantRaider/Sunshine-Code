@@ -5,3 +5,5 @@ Pink
 Blue
 red
 Green
+Violet
+Yellow
